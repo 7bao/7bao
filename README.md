@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7bao
-- 👀 I’m interested in c++
+- 👀 I’m interested in c++ and python
 - 🌱 I’m currently learning Design Patterns.
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me ...
